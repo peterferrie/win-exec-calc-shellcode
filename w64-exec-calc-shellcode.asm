@@ -3,7 +3,7 @@
 ; Project homepage: http://code.google.com/p/win-exec-calc-shellcode/
 ; All rights reserved. See COPYRIGHT.txt for details.
 
-; Windows x64 null-free shellcode that executes calc.exe.
+; Windows x64 nul-free shellcode that executes calc.exe.
 ; Works in any x64 application for Windows 5.0-6.3 all service packs.
 BITS 64
 SECTION .text

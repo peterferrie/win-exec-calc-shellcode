@@ -3,7 +3,7 @@
 ; Project homepage: http://code.google.com/p/win-exec-calc-shellcode/
 ; All rights reserved. See COPYRIGHT.txt for details.
 
-; null-free x86/x64 branching code for calc.exe executing shellcode.
+; nul-free x86/x64 branching code for calc.exe executing shellcode.
 ; Works in any x86 or x64 application for Windows 5.0-6.3 all service packs.
 BITS 32
 
