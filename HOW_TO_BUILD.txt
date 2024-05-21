@@ -17,8 +17,3 @@ You can also combine FUNC (and CLEAN) and STACK_ALIGN to produce code that will 
 
 If you want to create a DLL-file that executes the shellcode, you can compile win-dll-run-shellcode.c
 If you want to create an executable that executes the shellcode, you can compile win-exe-run-shellcode.c
-
-Release versions are build using SkyBuild (https://code.google.com/p/skybuild/), which is a python script that uses
-nasm to assemble and Microsoft Visual Studio to compile the source into binary formats. It reads
-build_config.py and build_info.txt to find out what to do and stores a build number in the later.
-
