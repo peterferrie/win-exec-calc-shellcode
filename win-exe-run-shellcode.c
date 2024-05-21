@@ -1,4 +1,4 @@
-// Copyright (c) 2009-2014, Berend-Jan "SkyLined" Wever <berendjanwever@gmail.com>
+// Copyright (c) 2009-2014, Berend-Jan "SkyLined" Wever <win-exec-calc-shellcode@skylined.nl>
 // and Peter Ferrie <peter.ferrie@gmail.com>
 // Project homepage: http://code.google.com/p/win-exec-calc-shellcode/
 // All rights reserved. See COPYRIGHT.txt for details.
